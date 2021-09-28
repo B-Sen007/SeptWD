@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <title>BiswapriyoSen
+        </title>
+        <link rel="styleshee" href="">
+
+    </head>
+    <body>
+        <div>
+            <div>
+                <h1> Hi, Biswapriyo this side!!</h1>
+            </div> class= "hide>"
+            <!-- header-->
+            <div>
+                 <img src ="clicks/images.jpeg">
+                 <a href="https://www.instagram.com/kolkata.pixel.official">Profile</a> 
+            </div>  
+            <!-- main section-->    
+            <div>
+                <!-- side bar-->
+                <div>
+                    <ul>
+                        <li>
+                            <a href="#">Home</a>
+                        </li>
+                        <li>
+                            <a href="#">Achievements</a>
+                        </li>
+                        <li>
+                            <a href="#">Blogs</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- text -->
+                <div>
+                    
+                    <p>Blogger, Kolkata Pixel Official</p>
+                    <h3>check the blogs</h3>
+                    <h3>explore the world</h3>
+                </div>
+                <!-- table-->
+                <table border ="1">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Contact</th>
+                            <th>Email</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>BISWA</td>
+                            <td>787878787</td>
+                            <td>BISWA@gmail</td>
+                        </tr>
+                    </tbody>
+                </table>
+                </div>
+            </div>  
+        </div>
+    </body>
+</html>
